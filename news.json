@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "items": [
+    {
+      "title": "David Fincher says AI was used to re-sync actors' lip movements in Cliff Booth",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/news/david-fincher-explains-ai-use-cliff-booth-1236958022/",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "Ant Group open-sources Ming-Image-0.2-Design, a 6B image model for design work",
+      "source": "inclusionAI",
+      "url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+      "date": "2026-11-27"
+    },
     {
       "title": "MiniMax launches the H3 Family of video and image models for commercial production",
       "source": "MiniMax",
@@ -17,12 +29,6 @@
       "title": "Sber releases Kandinsky 6.5 video and image models, with 10-second 2K clips",
       "source": "RIA Novosti",
       "url": "https://ria.ru/20261126/sber-2134158900.html",
-      "date": "2026-11-26"
-    },
-    {
-      "title": "Creators find AI-reskinned copies of their videos that replace the original performer",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/11/25/ai-generated-characters-are-stealing-content-creators-viral-videos/",
       "date": "2026-11-26"
     }
   ]

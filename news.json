@@ -1,4 +1,29 @@
 {
   "updated": "2026-11-26",
-  "items": []
+  "items": [
+    {
+      "title": "MiniMax launches the H3 Family of video and image models for commercial production",
+      "source": "MiniMax",
+      "url": "https://www.minimax.io/blog/minimax-h3-family",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Luma launches Brand Kit and Character Library for consistent images and video",
+      "source": "Luma",
+      "url": "https://lumalabs.ai/news/brand-kit-character-library",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Sber releases Kandinsky 6.5 video and image models, with 10-second 2K clips",
+      "source": "RIA Novosti",
+      "url": "https://ria.ru/20261126/sber-2134158900.html",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Creators find AI-reskinned copies of their videos that replace the original performer",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/11/25/ai-generated-characters-are-stealing-content-creators-viral-videos/",
+      "date": "2026-11-26"
+    }
+  ]
 }
